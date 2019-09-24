@@ -1,6 +1,6 @@
 # Automatic-Temperature-Controller
 This is the software side to an crystallization machine that I help make over the summer.
-It's able to automatically control the temperature of the Peltier and I used it to make crystals 
+It's able to automatically control the temperature of a Peltier and I used it to make crystals 
 but I truly belive it can be used for anything.
 
 The crystallization machine was simply designed to automatically make crystals and how it did that was 
